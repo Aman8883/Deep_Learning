@@ -1,5 +1,10 @@
 CIFAR-10 Image Classification with a Custom CNN
 This repository demonstrates image classification on the CIFAR-10 dataset using a custom Convolutional Neural Network (CNN) built with Keras. The CIFAR-10 dataset, a well-known benchmark in image recognition, comprises 60,000 32x32 color images across 10 distinct object classes.
+
+
+<img width="1247" height="7589" alt="Image" src="https://github.com/user-attachments/assets/cbc3df4d-eddf-45a1-97fc-b88df7e8b9b2" />
+
+
 Dataset
 The CIFAR-10 dataset consists of 60,000 32x32 color images belonging to 10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck. It is split into 50,000 training images and 10,000 test images.
 Model Architecture
